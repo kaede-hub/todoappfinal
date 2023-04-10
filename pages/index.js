@@ -58,8 +58,8 @@ export default function Home() {
       </Head>
 
       <Container minH="100%" maxW="100%" bg="black.100" m="0" padding="1rem">
-        <Box px="5" bg="orange.200">
-          <Heading pt="2" pb="2" maxWidth="1100px" mx="auto">
+        <Box px="5" bg="black">
+          <Heading pt="2" pb="2" maxWidth="1100px" mx="auto" color="white">
             Todo App
           </Heading>
         </Box>
